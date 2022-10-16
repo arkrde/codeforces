@@ -1,0 +1,4 @@
+[package]
+name = "prob_1746a_maxima"
+version.workspace = true
+description.workspace = true

@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "prob_1746a_maxima"
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Arnab De <arkrde@gmail.com", "Debomita Saha De <debomitasaha@gmail.com>"]
+license-file = "LICENSE"
+description = "Solution to various Codeforces problems"
