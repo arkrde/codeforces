@@ -34,24 +34,6 @@ fn main() {
     
 }
 
-// fn compute(n: usize, k: usize, values: &[i32]) -> bool {
-//     let mut first : usize = 0;
-//     let mut last = first + k;
-//     let mut res = true;
-//     if last >= n {
-//         res = *values[first..].into_iter().min().unwrap() > 0;
-//     } else {
-//         while last <= n {
-//             res |= *values[first..last].into_iter().max().unwrap() > 0;
-//             first = last - 1;
-//             last = first + k;
-//         }
-//         if first < n - 1 {
-//             res &= *values[first + 1..].into_iter().min().unwrap() > 0;
-//         }
-//     }
-//     res
-// }
 
 fn compute(n: usize, k: usize, values: &[bool]) -> bool {
     if k > n {

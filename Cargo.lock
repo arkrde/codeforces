@@ -3,5 +3,17 @@
 version = 3
 
 [[package]]
-name = "prob_1746a_maxima"
+name = "even_odd_increments"
+version = "0.1.0"
+
+[[package]]
+name = "number_replacement"
+version = "0.1.0"
+
+[[package]]
+name = "prob_1744c_traffic_light"
+version = "0.1.0"
+
+[[package]]
+name = "prob_1746a_maxmina"
 version = "0.1.0"
