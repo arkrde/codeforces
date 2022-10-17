@@ -7,7 +7,7 @@ name = "even_odd_increments"
 version = "0.1.0"
 
 [[package]]
-name = "number_replacement"
+name = "prob_1744a_number_replacement"
 version = "0.1.0"
 
 [[package]]

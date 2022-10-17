@@ -1,7 +1,7 @@
 [workspace]
 members = [
     "prob_1746a_maxmina",
-    "number_replacement",
+    "prob_1744a_number_replacement",
     "even_odd_increments",
     "prob_1744c_traffic_light"
 ]
